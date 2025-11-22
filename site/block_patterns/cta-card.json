@@ -1,0 +1,4 @@
+{
+  "title": "XM CTA Card",
+  "content": "<!-- wp:group --><div class=\"wp-block-group xm-cta-card\"><!-- wp:heading {\"level\":3} --><h3>Book a Growth Audit</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Get a 30-minute expert review of your journeys, CRO setup, and personalization stack.</p><!-- /wp:paragraph --><!-- wp:button --><div class=\"wp-block-button\"><a class=\"wp-block-button__link\">Request audit</a></div><!-- /wp:button --></div><!-- /wp:group -->"
+}
